@@ -5,6 +5,7 @@
 |key|value|
 |---|-----|
 |Name|丁健右(Geonwoo Jeong)|
+|Email|geonwoo.jeong@gmail.com|
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 
 ## スキル
@@ -14,7 +15,7 @@
 - JavaScript
   - JQuery, ES6, React-Native
 - AWS
-  - Lambda, EC2
+  - Lambda, EC2, S3, RDS, Elastic Beanstalk, 
 - Ruby
   - Ruby on Rails
 - Java
