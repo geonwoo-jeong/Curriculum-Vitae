@@ -6,7 +6,7 @@
 |---|-----|
 |Name|丁健右(Geonwoo Jeong)|
 |Nationality|韓国(South Korea)|
-|Residence|埼玉県 草加市|
+|Location|埼玉県 草加市|
 |Email|geonwoo.jeong@gmail.com|
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 
@@ -17,27 +17,45 @@
 |英語|ドキュメントや Stack Overflow がなんとか読める程度。|
 |韓国語|ネイティブ|
 
-## 言語・フレームワーク
+## 技術スタック
+|言語|期間|備考|
+|----|---|----|
+|JavaScript|||
+|TypeScript|||
+|Java|||
+|Ruby|||
+|RPGLE|||
+|C#|||
 
-- TypeScript
-  - React, Redux, Express
-- JavaScript
-  - ES6, React-Native, Webpack, JQuery
-- CSS
-  - SASS, CSS3, Styled Components
-- Ruby
-  - Ruby on Rails
-- Java
-  - 楽々FrameWork II
-- DataBase
-  - PostgreSQL, DB2, mongoDB, GraphQL 
-- RPGLE
-  
+## フレームワーク
+|フレームワーク|期間|備考|
+|----|---|----|
+|Ruby on Rails|||
+|React|||
+|Express|||
+|React|||
+|Redux|||
+|React-Native|||
+|JQuery|||
+|楽々FrameWork II|||
+
+|フロント周り	|期間|備考|
+|----|---|----|
+|CSS|||
+|Webpack|||
+
+|インフラ周り	|期間|備考|
+|----|---|----|
+|RDB/NoSQL||PostgreSQL, DB2, mongoDB, GraphQL|
+|AWS|||
+
 ## 強み
   
 ## やったことはないが興味があるもの
 
   - Vue.js
+  - Firebase
+  - Flutter
 
 ## 個人開発
 
@@ -61,7 +79,7 @@
   - Ruby on railsによるバックエンドとフロントエンドの実装
 　- WebRTCを用いたバーコードリーダーの実装
 
-#### データ分析計系のWebサイトの開発 (2017/〜2018/)
+#### データ分析系のWebサイトの開発 (2017/〜2018/)
 
   - ゼロベースからの開発を担当
   - Ruby on railsによるバックエンドとフロントエンドの実装
