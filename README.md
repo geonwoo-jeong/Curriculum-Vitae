@@ -4,73 +4,36 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|丁健右(Geonwoo Jeong)|
+|Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 
 ## スキル
-### 言語
+### 言語・フレームワーク
+- TypeScript
+  - React, Redux, Express
+- JavaScript
+  - JQuery, ES6, React-Native
+- AWS
+  - Lambda, EC2
 - Ruby
-- PHP
+  - Ruby on Rails
 - Java
-- などなど
-
-### フレームワーク
-
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
-
-### その他
-
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
-
-## 言語
-
+  - 楽々Framework II
+- DataBase
+  - PostgreSQL, DB2, mongoDB, GraphQL 
 - 日本語
-  - ネイティブ
+  - [JLPT N1](https://www.jlpt.jp/about/levelsummary.html)
 - 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
-
+  - ドキュメントや Stack Overflow がなんとか読める程度。
+- 韓国語
+  - ネイティブ
+  
 ## 強み
-
+  
 ## やったことはないが興味があるもの
-
+  - Vue.js
+  - Golang
+  
 ## 職務経歴
-
-### yyyy/mm - 現在 : 会社名
-
-職務: Webアプリケーションエンジニア（例）
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-## 課外活動
-
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+  
+### 2017/03 - : [株式会社エムエルシー](http://www.mizuiwa.co.jp/) 
