@@ -5,6 +5,8 @@
 |key|value|
 |---|-----|
 |Name|丁健右(Geonwoo Jeong)|
+|Nationality|韓国(South Korea)|
+|Residence|埼玉県 草加市|
 |Email|geonwoo.jeong@gmail.com|
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 
@@ -37,7 +39,10 @@
 
   - Vue.js
   - Golang
-  
+
+## 個人開発
+
+
 ## 職務経歴
   
 ### 2017/03 - : [株式会社エムエルシー](http://www.mizuiwa.co.jp/) 
@@ -52,10 +57,12 @@
 
 #### Connected Neo Mobile 開発 (2018/)
 
-Ruby on Railsを用いたBtoBサイトを開発。
+Ruby on Railsを用いたモバイル用のBtoBサイトを開発。
 
   - フロントエンドの担当
     - [Materializecss](https://materializecss.com/)をベースで開発。
+  - 
+  - [quaggaJS](https://serratus.github.io/quaggaJS/)
 
 #### Connected Neo 開発 (2017/08〜2018/05)
 
@@ -67,6 +74,7 @@ Ruby on Railsを用いたBtoBサイトを開発。
    - Ruby on Rails
  - API
    - Node.js
+ - 要件定義、設計、開発、テスト
 
 #### SMART-Neo 開発 (2017/03 ~ 2017/08)
 
