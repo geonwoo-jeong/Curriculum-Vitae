@@ -11,34 +11,37 @@
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 
 ## スキル
+
+## 自然言語
+|言語|レベル|
+|-----|-----|
+|日本語|[JLPT N1](https://www.jlpt.jp/about/levelsummary.html)|
+|英語|ドキュメントや Stack Overflow がなんとか読める程度。|
+|韓国語|ネイティブ|
+
 ### 言語・フレームワーク
 
 - TypeScript
   - React, Redux, Express
 - JavaScript
-  - JQuery, ES6, React-Native, Webpack
+  - ES6, React-Native, Webpack, JQuery
+- CSS
+  - SASS, CSS3, Styled Components
 - AWS
-  - Lambda, EC2, S3, RDS, Elastic Beanstalk
+  - Lambda, EC2, S3, RDS
 - Ruby
   - Ruby on Rails
 - Java
-  - 楽々Framework II
+  - 楽々FrameWork II
 - DataBase
   - PostgreSQL, DB2, mongoDB, GraphQL 
 - RPGLE
-- 日本語
-  - [JLPT N1](https://www.jlpt.jp/about/levelsummary.html)
-- 英語
-  - ドキュメントや Stack Overflow がなんとか読める程度。
-- 韓国語
-  - ネイティブ
   
 ## 強み
   
 ## やったことはないが興味があるもの
 
   - Vue.js
-  - Golang
 
 ## 個人開発
 
@@ -51,36 +54,22 @@
 
 #### B/O 開発 (2019/03〜)
 
-楽々Framework IIを用いたBtoBサイトを開発。
-  
   - 
 
 #### Connected Neo Mobile 開発 (2018/)
 
-Ruby on Railsを用いたモバイル用のBtoBサイトを開発。
+  - ゼロベースからの開発を担当
+  - Ruby on railsによるバックエンドとフロントエンドの実装
+　- WebRTCを用いたバーコードリーダーの実装
 
-  - フロントエンドの担当
-    - [Materializecss](https://materializecss.com/)をベースで開発。
-  - 
-  - [quaggaJS](https://serratus.github.io/quaggaJS/)
+#### Connected Neo 開発 (2017/〜2018/)
 
-#### Connected Neo 開発 (2017/08〜2018/05)
+  - ゼロベースからの開発を担当
+  - Ruby on railsによるバックエンドとフロントエンドの実装
+  - AWS Lambdaを用いたAPIを実装
 
-Ruby on Railsを用いたBtoBサイトを開発。
- 
- - フロントエンドの担当
-   - [Gentelella](https://github.com/ColorlibHQ/gentelella/)をベースで開発。
- - バックエンド
-   - Ruby on Rails
- - API
-   - Node.js
- - 要件定義、設計、開発、テスト
+#### SMART-Neo 開発 (2017/06 ~ 2017/)
 
-#### SMART-Neo 開発 (2017/03 ~ 2017/08)
-
-RPGLEで既存サービスの改善を行った。
-
-- RPGLEでSmart-Neoの開発
-- DB2
-
-
+  - リーリースから10年以上のBtoBサービスに新入配属後に参加
+  - RPGLEによるサーバーサイドの実装
+  
