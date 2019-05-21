@@ -20,34 +20,33 @@
 ## 技術スタック
 |言語|期間|備考|
 |----|---|----|
-|JavaScript|||
+|**JavaScript**|||
 |TypeScript|||
-|Java|||
-|Ruby|||
-|RPGLE|||
-|C#|||
+|**Java**|||
+|**Ruby**|||
+|**RPGLE**|||
+|**C#**|||
 
-## フレームワーク
 |フレームワーク|期間|備考|
 |----|---|----|
-|Ruby on Rails|||
+|**Ruby on Rails**|||
 |React|||
 |Express|||
 |React|||
 |Redux|||
 |React-Native|||
 |JQuery|||
-|楽々FrameWork II|||
+|**楽々FrameWork II**|||
 
 |フロント周り	|期間|備考|
 |----|---|----|
-|CSS|||
+|**CSS**|||
 |Webpack|||
 
 |インフラ周り	|期間|備考|
 |----|---|----|
-|RDB/NoSQL||PostgreSQL, DB2, mongoDB, GraphQL|
-|AWS|||
+|**RDB/NoSQL**||**PostgreSQL**, **DB2**, mongoDB, GraphQL|
+|**AWS**|||
 
 ## 強み
   
@@ -56,9 +55,6 @@
   - Vue.js
   - Firebase
   - Flutter
-
-## 個人開発
-
 
 ## 実務経歴
   
