@@ -20,33 +20,34 @@
 ## 技術スタック
 |言語|期間|備考|
 |----|---|----|
-|**JavaScript**|||
-|TypeScript|||
-|**Java**|||
-|**Ruby**|||
-|**RPGLE**|||
-|**C#**|||
+|**JavaScript**|2年||
+|TypeScript|1年||
+|**Ruby**|1年||
+|**Java**|5ヶ月||
+|**RPGLE**|5ヶ月||
+|**C#**|1ヶ月||
 
 |フレームワーク|期間|備考|
 |----|---|----|
-|**Ruby on Rails**|||
-|React|||
-|Express|||
-|React|||
-|Redux|||
-|React-Native|||
-|JQuery|||
-|**楽々FrameWork II**|||
+|React|1年||
+|Express|8ヶ月||
+|Redux|2ヶ月||
+|React-Native|2ヶ月||
+|JQuery|3ヶ月||
+|**Ruby on Rails**|1年||
+|**楽々FrameWork II**|3ヶ月||
 
 |フロント周り	|期間|備考|
 |----|---|----|
-|**CSS**|||
-|Webpack|||
+|**CSS**|5ヶ月||
+|Webpack|1ヶ月||
 
 |インフラ周り	|期間|備考|
 |----|---|----|
-|**RDB/NoSQL**||**PostgreSQL**, **DB2**, mongoDB, GraphQL|
-|**AWS**|||
+|**RDS**|2年|**PostgreSQL**, **DB2**, GraphQL|
+|NoSQL|1ヶ月|mongoDB, GraphQL|
+
+|**AWS**|5ヶ月||
 
 ## 強み
   
@@ -69,19 +70,19 @@
   - CSS/JavaScriptによるフロントエンドの実装
   - VBAを用いたエクセルのマクロの実装
 
-#### 店舗在庫管理用のWebアプリの開発 (2018/)
+#### 店舗在庫管理用のWebアプリの開発 (2018/03〜2018/10)
  
   - ゼロベースからの開発を担当
   - Ruby on railsによるバックエンドとフロントエンドの実装
 　- WebRTCを用いたバーコードリーダーの実装
 
-#### データ分析系のWebサイトの開発 (2017/〜2018/)
+#### データ分析系のWebサイトの開発 (2017/08〜2018/05)
 
   - ゼロベースからの開発を担当
   - Ruby on railsによるバックエンドとフロントエンドの実装
   - NodeJSとAWS Lambdaを用いたAPIの実装
 
-#### WMSシステムの開発 (2017/06 ~ 2017/)
+#### WMSシステムの開発 (2017/06〜2017/08)
 
   - リーリースから10年以上のBtoBサービスに新入配属後に参加
   - RPGLEによるIBM System iの開発
