@@ -63,7 +63,18 @@
 
 職務: サーバーサイド、フロントエンドエンジニア
 
-#### WMSシステムのWeb系の開発 (2019/03〜)
+#### WMSシステムのWeb系の開発 (2019/07~)
+
+  ```
+  Angular | RxJS | Docker | Jenkins | Node.js | Postgresql
+  ```
+  - 未定
+
+#### WMSシステムのWeb系の開発 (2019/03〜2019/07)
+  
+  ```
+  JAVA 1.4 | 楽々フレームワーク II 6.0 | DB2
+  ```
 
   - リーリースから10年程度のWebサービスに対する機能追加、改善を担当
   - Java(楽々Framework II)によるサーバサイドの実装
@@ -71,18 +82,28 @@
   - VBAを用いたエクセルのマクロの実装
 
 #### 店舗在庫管理用のWebアプリの開発 (2018/03〜2018/10)
- 
+
+  ```
+  Ruby 2.4.5 | Ruby on Rails 5.0.6 | Postgresql 9.6
+  ```
   - ゼロベースからの開発を担当
   - Ruby on railsによるバックエンドとフロントエンドの実装
 　- WebRTCを用いたバーコードリーダーの実装
 
 #### データ分析系のWebサイトの開発 (2017/08〜2018/05)
 
+  ```
+  Ruby 2.4.5 | Ruby on Rails 5.0.6 | Node.js 6.10 | Postgresql 9.6
+  ```
   - ゼロベースからの開発を担当
   - Ruby on railsによるバックエンドとフロントエンドの実装
-  - NodeJSとAWS Lambdaを用いたAPIの実装
+  - Node.jsとAWS Lambdaを用いたAPIの実装
 
 #### WMSシステムの開発 (2017/06〜2017/08)
+
+  ```
+  DB2 | RPGLE
+  ```
 
   - リーリースから10年以上のBtoBサービスに新入配属後に参加
   - RPGLEによるIBM System iの開発
