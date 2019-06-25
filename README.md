@@ -7,7 +7,6 @@
 |Name|丁 健右 (Geonwoo Jeong)|
 |Nationality|韓国 (South Korea)|
 |Location|埼玉県 草加市|
-|Email|geonwoo.jeong@gmail.com|
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 
 ## 自然言語
