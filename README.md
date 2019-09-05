@@ -1,7 +1,6 @@
 # オープン職務経歴書
 
 ## 基本情報
-
 |key|value|
 |---|-----|
 |名前|丁 健右 (Geonwoo Jeong)|
@@ -11,6 +10,10 @@
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 |Twitter|[@GeonwooJeong](https://twitter.com/GeonwooJeong)|
 |E-Mail|[geonwoo.jeong@gmail.com](geonwoo.jeong@gmail.com)|
+
+## 資格
+|資格名|取得年月|
+|------|--------|
 
 ## 自然言語
 |言語|レベル|
@@ -50,34 +53,20 @@
 
 |**AWS**|5ヶ月||
 
-## 強み
-  
-## やったことはないが興味があるもの
-
-  - Vue.js
-  - Firebase
-  - Flutter
-
-
-
-
-## 実務経歴
-  
+## 実務経歴  
 ### [株式会社エムエルシー](http://www.mizuiwa.co.jp/) (2017/03 ~ 現在)
 
 職務: Webエンジニア
 
-#### 店舗在庫管理システム『Commons』の開発 (2019/08~)
-
-
-  ```
-  Angular 8 | RxJS 6.5.2
-  ```
+####  店舗向け統合在庫管理アプリの開発 (2019/08~)
+```
+Angular 8 | RxJS 6.5.2
+```
   
 ##### 担当業務
 - 未定
 
-#### Web系のWMSシステムの『BO』の開発 (2019/03~)
+#### Web系倉庫管理システムの機能強化 (2019/03~)
   
   ```
   JAVA 1.4 | 楽々フレームワーク II 6.0 | DB2
@@ -88,7 +77,7 @@
 - CSS/JavaScriptによるフロントエンドの実装
 - VBAを用いたエクセルのマクロの実装
 
-#### 店舗在庫管理用システム『Connected Neo Mobile』の開発 (2018/03~2018/10)
+#### 店舗向け在庫管理Webアプリのプロトタイプを開発 (2018/03~2018/10)
 
   ```
   Ruby 2.4.5 | Ruby on Rails 5.0.6 | Postgresql 9.6
@@ -98,7 +87,7 @@
 - Ruby on railsによるバックエンドとフロントエンドの実装
 - WebRTCを用いたバーコードリーダーの実装
 
-#### データ分析系のWebサイトの開発 『Connected Neo』の開発 (2017/08~2018/05)
+#### 倉庫内の残在庫を可視化するシステムの開発 (2017/08~2018/05)
 
   ```
   Ruby 2.4.5 | Ruby on Rails 5.0.6 | Node.js 6.10 | Postgresql 9.6
@@ -108,7 +97,7 @@
 - Ruby on railsによるバックエンドとフロントエンドの実装
 - Node.jsとAWS Lambdaを用いたAPIの実装
 
-#### WMSシステム『Neo.WMS』の開発 (2017/06~2017/08)
+#### 倉庫管理システムの開発 (2017/06~2017/08)
 ```
 RPGLE | DB2
 ```
