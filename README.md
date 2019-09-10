@@ -52,7 +52,7 @@
 |React|1年|Lv2||
 |***Ruby on Rails**|1年未満|Lv2||
 |Vue|1年未満|Lv1|[vue-nodebird](https://github.com/geonwoo-jeong/vue-nodebird)|
-|Express|1年未満|Lv3||
+|Express|1年未満|Lv3|[nuber-server](https://github.com/geonwoo-jeong/nuber-server)|
 |Django|1年未満|Lv1|[nomadgram](https://github.com/geonwoo-jeong/nomadgram)|
 |Redux(+Redux-saga)|1年未満|Lv2|[carrot-market-clone](https://github.com/geonwoo-jeong/carrot-market-clone)|
 |React-Native(Expo)|1年未満|Lv2||
@@ -61,7 +61,7 @@
 
 |フロント周り	|期間|レベル|備考|
 |-------------|---|------|----|
-|***CSS**|2年|Lv2||
+|***CSS**|2年|Lv2|Flex, Grid layoutなどの経験あり|
 |Webpack|1年未満|Lv1||
 
 |インフラ周り	|期間|備考|
