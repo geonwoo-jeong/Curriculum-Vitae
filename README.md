@@ -38,29 +38,29 @@
 
 
 
-|言語|期間|備考|
-|----|---|----|
-|***JavaScript**|3年|Lv3|
-|TypeScript|1年未満|Lv2|
-|***Ruby**|1年未満|Lv2|
-|***Java**|1年未満|Lv2|
-|***RPGLE**|1年未満|Lv1|
+|言語|期間|レベル|備考|
+|----|---|------|----|
+|***JavaScript**|3年|Lv3||
+|TypeScript|1年未満|Lv2||
+|***Ruby**|1年未満|Lv2||
+|***Java**|1年未満|Lv2||
+|***RPGLE**|1年未満|Lv1||
 
-|フレームワーク|期間|備考|
-|----|---|----|
-|React|1年|Lv2|
-|***Ruby on Rails**|1年未満|Lv2|
-|Express|1年未満|Lv3|
-|Django|1年未満|Lv1|
-|Redux(+Redux-saga)|1年未満|Lv2|
-|React-Native(Expo)|1年未満|Lv2|
-|JQuery|1年未満|Lv2|
-|***楽々FrameWork II**|1年未満|Lv2|
+|フレームワーク|期間|レベル|備考|
+|--------------|---|------|----|
+|React|1年|Lv2||
+|***Ruby on Rails**|1年未満|Lv2||
+|Express|1年未満|Lv3||
+|Django|1年未満|Lv1||
+|Redux(+Redux-saga)|1年未満|Lv2||
+|React-Native(Expo)|1年未満|Lv2||
+|JQuery|1年未満|Lv2||
+|***楽々FrameWork II**|1年未満|Lv2||
 
-|フロント周り	|期間|備考|
-|----|---|----|
-|***CSS**|2年|Lv2|
-|Webpack|1年未満|Lv1|
+|フロント周り	|期間|レベル|備考|
+|-------------|---|------|----|
+|***CSS**|2年|Lv2||
+|Webpack|1年未満|Lv1||
 
 |インフラ周り	|期間|備考|
 |----|---|----|
