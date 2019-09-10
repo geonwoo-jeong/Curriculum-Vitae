@@ -52,7 +52,7 @@
 |React|1年|Lv2||
 |***Ruby on Rails**|1年未満|Lv2||
 |Vue|1年未満|Lv1|[vue-nodebird](https://github.com/geonwoo-jeong/vue-nodebird)|
-|Express|1年未満|Lv3|[nuber-server](https://github.com/geonwoo-jeong/nuber-server)|
+|Express|1年未満|Lv2|[nuber-server](https://github.com/geonwoo-jeong/nuber-server)|
 |Django|1年未満|Lv1|[nomadgram](https://github.com/geonwoo-jeong/nomadgram)|
 |Redux(+Redux-saga)|1年未満|Lv2|[carrot-market-clone](https://github.com/geonwoo-jeong/carrot-market-clone)|
 |React-Native(Expo)|1年未満|Lv2||
@@ -66,9 +66,9 @@
 
 |インフラ周り	|期間|備考|
 |----|---|----|
-|***RDS**|2年|**PostgreSQL**, **DB2**, GraphQL|
+|***RDS**|2年|***PostgreSQL**, ***DB2**, GraphQL|
 |***AWS**|1年未満|構築・運用|
-|NoSQL|1年未満|mongoDB, GraphQL|
+|NoSQL|1年未満|mongoDB|
 
 ## 実務経歴  
 ### [株式会社エムエルシー](http://www.mizuiwa.co.jp/) (2017/03 ~ 現在)
