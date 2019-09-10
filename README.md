@@ -23,35 +23,38 @@
 |韓国語|ネイティブ|
 
 ## 技術スタック
+
+##### 下記は2019年9月を基準に作成されました
+##### **bold**は実務経験がある技術です
+
 |言語|期間|備考|
 |----|---|----|
-|**JavaScript**|2年|ES6を含め広く浅く経験。最近は関数型プログラミングを勉強中。|
-|TypeScript|1年|プライベートで一番使用している言語。JavaScriptのレクチャーをTypeScriptに変換しながら勉強中。|
-|**Ruby**|1年|仕事で使っていた言語。きれいなソースを書く自信はない。|
-|**Java**|5ヶ月|塾で勉強した言語。仕事では楽々Framework IIで経験。|
-|**RPGLE**|5ヶ月|チュートリアルを行い、仕事のサブプロジェクトで少し触った程度。|
+|**JavaScript**|3年||
+|TypeScript|1年未満||
+|**Ruby**|1年未満||
+|**Java**|1年未満||
+|**RPGLE**|1年未満||
 
 |フレームワーク|期間|備考|
 |----|---|----|
+|**Ruby on Rails**|1年未満||
 |React|1年||
-|Express|8ヶ月||
-|Redux|2ヶ月||
-|React-Native|2ヶ月||
-|JQuery|3ヶ月||
-|**Ruby on Rails**|1年||
-|**楽々FrameWork II**|3ヶ月||
+|Express|1年未満||
+|Redux|1年未満||
+|React-Native|1年未満||
+|JQuery|1年未満||
+|**楽々FrameWork II**|1年未満||
 
 |フロント周り	|期間|備考|
 |----|---|----|
-|**CSS**|5ヶ月||
-|Webpack|1ヶ月||
+|**CSS**|1年||
+|Webpack|1年未満||
 
 |インフラ周り	|期間|備考|
 |----|---|----|
 |**RDS**|2年|**PostgreSQL**, **DB2**, GraphQL|
-|NoSQL|1ヶ月|mongoDB, GraphQL|
-
-|**AWS**|5ヶ月||
+|**AWS**|1年未満||
+|NoSQL|1年未満|mongoDB, GraphQL|
 
 ## 実務経歴  
 ### [株式会社エムエルシー](http://www.mizuiwa.co.jp/) (2017/03 ~ 現在)
