@@ -51,9 +51,10 @@
 |--------------|---|------|----|
 |React|1年|Lv2||
 |***Ruby on Rails**|1年未満|Lv2||
+|Vue|1年未満|Lv1|[vue-nodebird](https://github.com/geonwoo-jeong/vue-nodebird)|
 |Express|1年未満|Lv3||
-|Django|1年未満|Lv1||
-|Redux(+Redux-saga)|1年未満|Lv2||
+|Django|1年未満|Lv1|[nomadgram](https://github.com/geonwoo-jeong/nomadgram)|
+|Redux(+Redux-saga)|1年未満|Lv2|[carrot-market-clone](https://github.com/geonwoo-jeong/carrot-market-clone)|
 |React-Native(Expo)|1年未満|Lv2||
 |JQuery|1年未満|Lv2||
 |***楽々FrameWork II**|1年未満|Lv2||
