@@ -9,6 +9,7 @@
 |Github|[geonwoo-jeong](https://github.com/geonwoo-jeong)|
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 |Twitter|[@GeonwooJeong](https://twitter.com/GeonwooJeong)|
+|Connpass|[geonwoo-jeong](https://connpass.com/user/geonwoo-jeong/)|
 |E-Mail|[geonwoo.jeong@gmail.com](geonwoo.jeong@gmail.com)|
 
 ## 資格
