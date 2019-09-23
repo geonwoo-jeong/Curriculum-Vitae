@@ -65,7 +65,7 @@ https://github.com/geonwoo-jeong
 
 |フロント周り|期間|レベル|
 |-------------|---|------|
-|***CSS**|2年|Animation、Sass、Styled Components、Flex Layout、Grid Layoutなどを使った開発ができる|
+|***CSS**|2年|Animation、Sass、Styled Components、Flex、Gridなどを使った開発ができる|
 |Webpack|1年未満|知識がある|
 
 |DB、インフラ周り	|期間|レベル|
