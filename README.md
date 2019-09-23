@@ -12,21 +12,37 @@
 |Connpass|[geonwoo-jeong](https://connpass.com/user/geonwoo-jeong/)|
 |Nomad Coders|[@wyrdism](https://challenges.nomadcoders.co/@wyrdism)|
 |E-Mail|[geonwoo.jeong@gmail.com](geonwoo.jeong@gmail.com)|
+
+## アウトプット
+
+### Github
+https://github.com/geonwoo-jeong
+
+勉強した内容のまとめや学習用のリポジトリがあります。
+一日一回以上のコミットを目指しています。
+
+## 関連の強い技術ワード
+
+- JavaScript
+- SPA (React / Vue)
+- CSS
+
 ## 資格
+
 |資格名|取得年月|
 |------|--------|
-|JLPT N1||
-|||
-
+|情報処理技師（応用情報技術者と相互認証）|2016.3|
+|JLPT(日本語能力試験) N1|2013.1|
 
 ## 自然言語
+
 |言語|レベル|
-|-----|-----|
-|日本語|[JLPT N1](https://www.jlpt.jp/about/levelsummary.html)|
-|英語|ドキュメントや Stack Overflow がなんとか読める程度|
+|----|------|
+|日本語|簡単なビジネス会話や文書の作成ができる程度|
+|英語|Document及びStack Overflowなどを何とか読める程度|
 |韓国語|ネイティブ|
 
-## 技術スタック
+## プログラミング言語/フレームワーク
 
 下記は2019年9月を基準に作成されました
 
@@ -43,7 +59,7 @@
 |言語|期間|レベル|備考|
 |----|---|------|----|
 |***JavaScript**|3年|Lv3||
-|TypeScript|1年未満|Lv2||
+|***TypeScript**|1年未満|Lv2||
 |***Ruby**|1年未満|Lv2||
 |***Java**|1年未満|Lv2||
 |***RPGLE**|1年未満|Lv1||
