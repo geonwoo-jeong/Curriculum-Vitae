@@ -48,44 +48,36 @@ https://github.com/geonwoo-jeong
 
 *は実務経験がある技術です
 
-|レベル|備考|
-|------|----|
-|Lv1|チュートリアル|
-|Lv2|簡単なプログラミングが可能|
-|Lv3|状況に応じてある程度プログラミングが可能|
+|言語|期間|レベル|
+|----|---|------|
+|***JavaScript**|3年|業務で即戦力になれる|
+|***TypeScript**|1年未満|簡単なタイプを作られる|
+|***Ruby**|1年未満|簡単なプログラミングができる|
+|***Java**|1年未満|簡単なプログラミングができる|
+|***RPGLE**|1年未満|簡単なプログラミングができる|
 
-
-
-|言語|期間|レベル|備考|
-|----|---|------|----|
-|***JavaScript**|3年|Lv3||
-|***TypeScript**|1年未満|Lv2||
-|***Ruby**|1年未満|Lv2||
-|***Java**|1年未満|Lv2||
-|***RPGLE**|1年未満|Lv1||
-
-|フレームワーク|期間|レベル|備考|
-|--------------|---|------|----|
-|React|1年|Lv3||
-|***Ruby on Rails**|1年未満|Lv2||
-|Vue|1年未満|Lv1|[vue-nodebird](https://github.com/geonwoo-jeong/vue-nodebird)|
-|Express|1年未満|Lv3|[nuber-server](https://github.com/geonwoo-jeong/nuber-server)|
-|Django|1年未満|Lv1|[nomadgram](https://github.com/geonwoo-jeong/nomadgram)|
-|Redux(+Redux-saga)|1年未満|Lv3|[carrot-market-clone](https://github.com/geonwoo-jeong/carrot-market-clone)|
-|React-Native(Expo)|1年未満|Lv2||
-|JQuery|1年未満|Lv2||
-|***楽々FrameWork II**|1年未満|Lv2||
+|フレームワーク|期間|レベル|
+|--------------|---|------|
+|React|1年|Redux、Hooks、TypeScriptなどを使った開発ができる|
+|***Ruby on Rails**|1年未満|一人である程度開発ができる|
+|Vue|1年未満|チュートリアルを見ながら勉強中|
+|Express|1年未満|ORM、MVCパターンで開発ができる|
+|Django|1年未満|チュートリアルを見ながら勉強中|
+|React-Native|1年未満|Expoを使った簡単なアプリの開発ができる|
+|JQuery|1年未満|今は使ってないが維持保守可能|
+|***楽々FrameWork II**|1年未満|ある程度プログラミングができる|
 
 |フロント周り	|期間|レベル|備考|
 |-------------|---|------|----|
-|***CSS**|2年|Lv3|Flex, Grid layoutなどの経験あり|
-|Webpack|1年未満|Lv1||
+|***CSS**|2年|Lv3|Animation、Sass、Styled Components、Flex Layout、Grid Layoutなどを使った開発ができる|
+|Webpack|1年未満|知識がある|
 
-|インフラ周り	|期間|備考|
+|DB、インフラ周り	|期間|
 |----|---|----|
-|***RDS**|2年|***PostgreSQL**, ***DB2**, GraphQL|
-|***AWS**|1年未満|構築・運用|
-|NoSQL|1年未満|mongoDB|
+|***RDS**|2年|SQLを使ったプログラミングができる|
+|***AWS**|1年未満|知識がある|
+|NoSQL|1年未満|知識がある|
+|GraphQL|1年未満|知識がある|
 
 ## 実務経歴  
 ### [株式会社エムエルシー](http://www.mizuiwa.co.jp/) (2017/03 ~ 現在)
