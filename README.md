@@ -22,7 +22,9 @@ https://github.com/geonwoo-jeong
 ## 関連の強い技術ワード
 
 - JavaScript
-- SPA (React / Vue)
+- TypeScript
+- SPA (React)
+- Nodejs
 - CSS
 
 ## 資格
