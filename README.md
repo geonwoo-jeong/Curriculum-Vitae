@@ -78,6 +78,7 @@ https://github.com/geonwoo-jeong
 |GraphQL|1年未満|知識がある|
 
 ## 実務経歴  
+
 ### [株式会社エムエルシー](http://www.mizuiwa.co.jp/) (2017/03 ~ 現在)
 
 ####  店舗向け統合在庫管理アプリの開発 (2019/09~)
@@ -99,7 +100,7 @@ https://github.com/geonwoo-jeong
   ```
   
   - 概要
-    - リーリースから10年程度のWebサービスに対する機能追加・改善を担当
+    - リーリースから10年程度のWebサービスに対する機能追加・改善
    
   - 役割    
     - Java(楽々Framework II)によるプログラムの改善
@@ -115,7 +116,7 @@ https://github.com/geonwoo-jeong
     - 店舗向けの在庫管理及び出荷指示をするWebアプリの開発
   
   - 役割  
-    - Ruby on Railsによるバックエンドとフロントエンドの開発を担当
+    - Ruby on Railsによるバックエンドとフロントエンドの開発
     - WebRTC(QuaggaJS)を用いたバーコードスキャナーの実装
 
   - 提案したこと
@@ -132,7 +133,7 @@ https://github.com/geonwoo-jeong
     - アパレルから店舗と倉庫の在庫を分析・出荷指示ができるWebアプリの開発
 
   - 役割
-    - Ruby on Railsによるバックエンドとフロントエンドの開発を担当
+    - Ruby on Railsによるバックエンドとフロントエンドの開発
     - Node.jsとAWS Lambdaを用いたAPIの実装
 
   - 提案したこと
