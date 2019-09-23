@@ -101,16 +101,16 @@ Angular 8 | RxJS 6.5.2
   Ruby 2.4.5 | Ruby on Rails 5.0.6 | Postgresql 9.6
   ```
   
-  概要
-  - ゼロベースからの開発を担当
+  - 概要
+    - ゼロベースからの開発を担当
   
-  役割  
-  - Ruby on Railsによるバックエンドとフロントエンドの開発を担当
-  - WebRTC(QuaggaJS)を用いたバーコードスキャナーの実装
-  
-  提案したこと
-  - WebRTCのカメラ機能を使ったバーコードスキャン機能
-  - Material Design
+  - 役割  
+    - Ruby on Railsによるバックエンドとフロントエンドの開発を担当
+    - WebRTC(QuaggaJS)を用いたバーコードスキャナーの実装
+
+  - 提案したこと
+    - WebRTCのカメラ機能を使ったバーコードスキャン機能
+    - Material Design
 
 #### 倉庫内の残在庫を可視化するシステムの開発 (2017/08~2018/05)
 
