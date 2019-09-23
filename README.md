@@ -7,11 +7,9 @@
 |国籍|韓国|
 |勤務先|東京|
 |Github|[geonwoo-jeong](https://github.com/geonwoo-jeong)|
+|E-Mail|[geonwoo.jeong@gmail.com](geonwoo.jeong@gmail.com)|
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 |Twitter|[@GeonwooJeong](https://twitter.com/GeonwooJeong)|
-|Connpass|[geonwoo-jeong](https://connpass.com/user/geonwoo-jeong/)|
-|Nomad Coders|[@wyrdism](https://challenges.nomadcoders.co/@wyrdism)|
-|E-Mail|[geonwoo.jeong@gmail.com](geonwoo.jeong@gmail.com)|
 
 ## アウトプット
 
@@ -125,5 +123,9 @@ RPGLE | DB2
 
 ## 自己PR
 
+|Nomad Coders|[@wyrdism](https://challenges.nomadcoders.co/@wyrdism)|
+
+
+|Connpass|[geonwoo-jeong](https://connpass.com/user/geonwoo-jeong/)|
 
 
