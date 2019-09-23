@@ -109,23 +109,31 @@ Angular 8 | RxJS 6.5.2
   ```
   Ruby 2.4.5 | Ruby on Rails 5.0.6 | Node.js 6.10 | Postgresql 9.6
   ```
-- ゼロベースからの開発
-- Ruby on railsによるバックエンドとフロントエンドの実装
+  
+概要
+- ゼロベースの開発
+- アパレルから店舗と倉庫の在庫を分析・出荷指示ができるWebアプリの開発
+
+役割
+- Ruby on Railsによるバックエンドとフロントエンドの開発を担当
 - Node.jsとAWS Lambdaを用いたAPIの実装
+
+提案したこと
+- Bootstrap3の使ったデザイン
+- DRY原則に従ったReusableできるViewのコンポネント
+- Gitのブランチを分けて開発すること
 
 #### 倉庫管理システムの開発 (2017/06~2017/08)
 ```
 RPGLE | DB2
 ```
-- エミュレーターの画面の開発
-- ビジネスロジックの開発
-- 実装内容のテストとテストケースの作成
+
+概要
+- WMSの新しいバージョンの実装
+
+役割
+- 80桁まで表現できる画面を120桁まで表現できるように改修
+- ビジネスロジックの修正
+- テストケースの作成
 
 ## 自己PR
-
-|Nomad Coders|[@wyrdism](https://challenges.nomadcoders.co/@wyrdism)|
-
-
-|Connpass|[geonwoo-jeong](https://connpass.com/user/geonwoo-jeong/)|
-
-
