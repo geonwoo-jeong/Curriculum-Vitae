@@ -128,8 +128,7 @@ https://github.com/geonwoo-jeong
   Ruby 2.4.5 | Ruby on Rails 5.0.6 | Node.js 6.10 | Postgresql 9.6
   ```
   
-  -概要
-    - ゼロベースの開発
+  - 概要
     - アパレルから店舗と倉庫の在庫を分析・出荷指示ができるWebアプリの開発
 
   - 役割
