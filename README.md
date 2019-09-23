@@ -67,12 +67,12 @@ https://github.com/geonwoo-jeong
 |JQuery|1年未満|今は使ってないが維持保守可能|
 |***楽々FrameWork II**|1年未満|ある程度プログラミングができる|
 
-|フロント周り	|期間|レベル|備考|
-|-------------|---|------|----|
-|***CSS**|2年|Lv3|Animation、Sass、Styled Components、Flex Layout、Grid Layoutなどを使った開発ができる|
+|フロント周り	|期間|レベル|
+|-------------|---|------|
+|***CSS**|2年|Animation、Sass、Styled Components、Flex Layout、Grid Layoutなどを使った開発ができる|
 |Webpack|1年未満|知識がある|
 
-|DB、インフラ周り	|期間|
+|DB、インフラ周り	|期間|レベル|
 |----|---|----|
 |***RDS**|2年|SQLを使ったプログラミングができる|
 |***AWS**|1年未満|知識がある|
