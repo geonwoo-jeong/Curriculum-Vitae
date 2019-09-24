@@ -84,7 +84,7 @@ https://github.com/geonwoo-jeong
 ####  店舗向け統合在庫管理アプリの開発 (2019/09~)
 
   ```
-  Angular 8 | RxJS 6.5.2
+  Angular 8 | RxJS 6.5.2 | TypeScript | Sass
   ```
   
   - 概要
@@ -92,6 +92,10 @@ https://github.com/geonwoo-jeong
     
   - 役割    
     - フロントエンドの開発を担当    
+    
+  - 提案したこと
+    - フロントエンドとバックエンドが分離されているSPAでの開発
+    
 
 #### Web系倉庫管理システムの機能強化 (2019/03~)
   
@@ -105,7 +109,7 @@ https://github.com/geonwoo-jeong
   - 役割    
     - Java(楽々Framework II)によるプログラムの改善
     - VBAを用いたエクセルのマクロの実装
-
+    
 #### 店舗向け在庫管理Webアプリのプロトタイプを開発 (2018/03~2018/10)
 
   ```
