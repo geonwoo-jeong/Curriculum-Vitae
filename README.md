@@ -21,10 +21,8 @@ https://github.com/geonwoo-jeong
 
 ## 関連の強い技術ワード
 
-- JavaScript
-- TypeScript
+- JavaScript (TypeScript)
 - SPA (React)
-- Nodejs
 - CSS
 
 ## 資格
