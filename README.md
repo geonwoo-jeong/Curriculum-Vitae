@@ -10,6 +10,10 @@
 |E-Mail|[geonwoo.jeong@gmail.com](geonwoo.jeong@gmail.com)|
 |Instagram|[@jeong.gw](https://instagram.com/jeong.gw)|
 |Twitter|[@GeonwooJeong](https://twitter.com/GeonwooJeong)|
+|Connpass|[geonwoo-jeong](https://connpass.com/user/geonwoo-jeong)|
+|Nomad Coders|[@wyrdism](https://challenges.nomadcoders.co/@wyrdism)|
+
+
 
 ## アウトプット
 
